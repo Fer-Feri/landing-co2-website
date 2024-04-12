@@ -10,6 +10,9 @@
 </a>
 
 <br>
+<br>
+<br>
+
 
 ## Color Reference 🌨
 <img src="https://img.shields.io/badge/firstColor-22a55f-jade">
@@ -23,7 +26,8 @@
 </a>
 
 <br>
-
+<br>
+<br>
 
 ## Demo 🎥
 ![CO2!](./images/readme-img-1.PNG)
